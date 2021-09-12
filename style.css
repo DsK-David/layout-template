@@ -1,0 +1,96 @@
+body {
+        padding:9px 0;
+    font-size: 15px;
+    background: #00CEFF;
+    text-align: center;
+    margin:auto;
+    font-family: sans-serif;
+    
+}
+.box{
+        top:50%;
+        left:50%;
+        transform: translate(-50%,-50%);
+        position: absolute;
+        border-radius:15px;
+        width: 310px;
+        height: 510px;
+        background: white;
+        text-align: center;
+        
+}
+img{
+        width: 310px;
+        border-radius: 15px 15px 0 0;
+        height: 150px;
+}
+p{
+        font-size: 15px;
+        text-align: center;
+        top:px;
+}
+.prising{
+        border-radius:5px 5px 0 0;
+        background:  whitesmoke;
+        height: 80px;
+        width:290px;
+        text-align: left;
+        margin: 0px;
+        
+        
+}
+.music-icon{
+        max-height: 50px;
+        max-width:50px;
+
+}
+.btn{
+        padding:14px 16px;
+        width: 250px;
+        border-radius:10px;
+        border:2px solid #0801F2;
+        color:white;
+        background: #0801F2;
+        box-shadow: 2px 5px 5px 2px #707078;
+}
+.btn2{
+        background: none;
+        border: none;
+        padding:9px;
+}
+.btn2:hover{
+        background: #707078;
+        cursor: pointer;
+        border: none;
+        border-radius:10px;
+        padding:3px 0;
+        width: 200px;
+}
+a{
+        position: absolute;
+        text-align: right;
+        right: 30px;
+        top:300px;
+}
+.money{
+        text-align: center;
+margin: -10px;
+color:black;
+        
+}
+.t1{
+        margin: -10px;
+}
+strong{
+        text-align: center;
+        top:300px;
+        margin:0px;
+}
+small {
+        font-family: monospace;
+        font-size: 10px;
+        position: absolute;
+        right: 0;
+        bottom: 15px;
+        color: red;
+}
